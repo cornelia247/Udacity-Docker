@@ -5,7 +5,7 @@
 # Setting up Environment
 
 ### you will need to create a virtualenv which can be created with "make setup "
-### after that you "source ~/(<name of virtualenv>)/bin/activate"
+### after that you "source ~/(name of virtualenv)/bin/activate"
 ### install the necessary softwares with "make install"
 
 # Running the app
